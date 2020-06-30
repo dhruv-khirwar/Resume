@@ -1,0 +1,30 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="242" height="59" viewBox="0 0 242 59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #c7c7c7;
+      }
+
+      .cls-2 {
+        fill: #707070;
+        font-size: 22px;
+        font-family: HelveticaNeue-Thin, Helvetica Neue;
+        font-weight: 200;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1">
+    <rect class="cls-3" width="242" height="59" rx="29.5"/>
+    <rect class="cls-4" x="0.5" y="0.5" width="241" height="58" rx="29"/>
+  </g>
+  <text id="Check_me_out_" data-name="Check me out!" class="cls-2" transform="translate(53 38)"><tspan x="0" y="0">Check me out!</tspan></text>
+</svg>

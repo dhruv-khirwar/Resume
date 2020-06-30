@@ -1,0 +1,119 @@
+body{
+  margin:0;
+  text-align: center;
+  color: gray;
+  background-color: white;
+  font-family: 'Nunito';
+  font-size: 1.25em;
+  margin-bottom: 0;
+
+}
+h1{
+
+  width: 40%;
+  margin: 0 auto;
+  font-family: 'Sacramento';
+  color: #66BFBF;
+  margin-top: 100px;
+  margin-bottom: 0;
+  font-size: 6rem;
+}
+hr{
+  height: 0;
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #32e0c4;
+  margin: 100px auto;
+}
+h2{
+  font-family: 'Nunito';
+  font-weight: lighter;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+h3{
+color: #393e46;
+}
+#profile_picture{
+  margin-top: 100px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 30px auto;
+}
+.One{
+  background-color: #e4f9ff;
+  margin: 0;
+  position: relative;
+  padding-top: 150px;
+}
+.bottom_cloud{
+  position: absolute;
+  left: 300px;
+}
+.top_cloud{
+  position: absolute;
+  right: 200px;
+}
+.profile{
+  padding-top: 50px;
+  width: 70%;
+  margin: 0 auto;
+}
+.skill-row{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+  text-align: left;
+
+}
+.skill-row2{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+  text-align: right;
+
+}
+
+.skill_image{
+  border-radius: 50%;
+  width: 21%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill_image2{
+  border-radius: 50%;
+  width: 21%;
+  float: right;
+  margin-left: 30px;
+}
+.butn{
+  font-size: 1.40rem;
+  display: block;
+  text-decoration: none;
+  color: white;
+  width: 150px;
+  height: 35px;
+  border-style: solid;
+  border-color: white;
+  background-image: linear-gradient(#32e0c4, #66BFBF) ;
+  border-radius: 50px;
+  margin: 70px auto;
+}
+#footer_paragraph{
+  color: white;
+  margin-bottom: 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+  padding-bottom: 30px;
+  height: 110px;
+}
+.social_media{
+  height: 25%;
+  margin: 20px 25px 0 25px;
+}
